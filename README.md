@@ -1,4 +1,4 @@
 ﻿# CleanArchitectureSOLID-Spring
 
 
-Lista de desejos(wishlist) de um cliente
+wishlist de um cliente
